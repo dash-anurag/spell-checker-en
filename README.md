@@ -3,7 +3,7 @@ We were given the task to design and implement a spell checker for web search an
 
 Steps to Implement the Code:
 1. Intall Python3 in the system.
-2. install pyspellchecker. (Eg. in linux terminal type, sudo pip install pyspellchecker.
+2. install pyspellchecker. (Eg. in linux terminal type, sudo pip install pyspellchecker.)
 3. Dowload the script.py from the repository.
 4. run python script.py in the terminal.
 
