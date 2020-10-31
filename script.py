@@ -1,6 +1,6 @@
 from spellchecker import SpellChecker
 
-spell = SpellChecker()
+spell = SpellChecker(distance=1)
 
 
 misspelled = spell.unknown(['let', 'us', 'wlak','on','the','groun'])
