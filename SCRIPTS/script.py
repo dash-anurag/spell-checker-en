@@ -2,7 +2,7 @@ from spellchecker import SpellChecker
 import re
 
 # creating spellchecker object
-spell = SpellChecker()
+spell = SpellChecker(distance=2)
 
 # creating file object
 f = open("input.txt", 'r')
